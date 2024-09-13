@@ -1,1 +1,2 @@
-ionelmc/webdav
+mzz2017/v2raya:2.0.5
+portainer/portainer-ce
